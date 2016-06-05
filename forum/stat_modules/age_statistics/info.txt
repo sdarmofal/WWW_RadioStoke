@@ -1,0 +1,36 @@
+# This file will contain the information about your module
+# for the statistics parser to use.
+#
+# You can make comments by using #
+# Note that the text must be on a single line for the parser
+# to read it!  Excluding the extra install info area.
+
+# Module Name
+[name] Age Statistics
+
+# your name
+[author] TheWiz
+
+# your email
+[email] admin@thewiz.co.il
+
+# your webpage url
+[url] http://www.techno.co.il/community/
+
+# module version
+[version] 1.0.1
+
+# stats version
+[stats_mod_version] 2.1.3
+
+[update_time] 48
+
+# extra info for the user, everything below
+# this block will be included, regardless if
+# you use a # even.
+[extra_info]
+This Module displays Age Statistic to your Board.
+Average age,Youngest member,Oldest member...
+Can be in use only if you have Birthday MOD v.1.1.14+.
+The most Users want to set these Module to Registered Users only.
+[/extra_info]

@@ -1,0 +1,6 @@
+<?php
+	$pobrane = file_get_contents('http://91.232.4.33:9174/currentsong?sid=1');
+	$gramy = explode("-",$pobrane);
+	echo '<p id="autor">'.$gramy[0].'</p>';
+	echo $gramy[1];
+?>
